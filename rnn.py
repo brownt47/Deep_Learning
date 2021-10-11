@@ -2,6 +2,8 @@
 # Part 1 - Data Preprocessing
 # Importing the libraries
 
+<img src="https://github.com/brownt47/Deep_Learning/blob/Figure%202021-10-11%20101117.png" >
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
